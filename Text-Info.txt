@@ -1,0 +1,20 @@
+Text-files used for the project:
+
+    Header-Section:
+        Name: CarVibe;
+        Nav-Bar: Home, Inventory, About-Us;
+        Hero-heading: "Turbocharge Your Drive Today!";
+        Hero-paragraph: "Experience the thrill of a lifetime with our cutting-edge vehicles. Unleash your inner speedster and turbocharge your drive today at CarVibe. Explore now!";
+    Card-Section:
+        Heading: "Our Car Selection"
+
+        Card-1: Model X1: Model X1: Versatile, efficient, and stylish – perfect for urban and long-distance travel.
+
+        card-2: Speedster S2: Sleek design, high power – a sports car enthusiast's dream.
+
+        card-3: Family Cruiser F5: Spacious, safe – the ideal choice for family outings.
+
+        card-4: Off-Road Beast R4: Conquer any terrain with this rugged, capable vehicle.
+
+    qoute-section:
+        "Cars are more than just machines; they're a symphony of design and engineering, a    canvas for our dreams. - Unknown"
